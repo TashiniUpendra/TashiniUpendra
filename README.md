@@ -66,3 +66,10 @@
 <p align="center">
   <a href="https://github.com/tashiniupendra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tashiniupendra&repo=your-repo-name&theme=radical" /></a>
 </p>
+
+<h3 align="center">🚀 Featured Projects</h3>
+<p align="center">
+  <a href="https://github.com/tashiniupendra/java-quiz-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tashiniupendra&repo=java-quiz-game&theme=radical" />
+  </a>
+</p>
