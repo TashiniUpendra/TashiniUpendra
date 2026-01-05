@@ -95,4 +95,16 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tashiniupendra&repo=REPO_NAME&theme=radical" />
 </p>
 
+<h3 align="center">🚀 Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/tashiniupendra/java-quiz-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tashiniupendra&repo=java-quiz-game&theme=radical" />
+  </a>
+  <a href="https://github.com/tashiniupendra/web-design-basics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tashiniupendra&repo=web-design-basics&theme=radical" />
+  </a>
+</p>
+
+
 
