@@ -40,7 +40,6 @@
   <img src="https://skillicons.dev/icons?i=c,cs,css,html,java,mysql,git,github,vscode" />
 </p>
 
----
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
@@ -53,7 +52,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tashiniupendra&theme=react-dark" alt="activity graph" />
 </p>
 
----
 
 <h3 align="center">✨ Quote of the Day ✨</h3>
 <p align="center">
@@ -66,7 +64,6 @@
 <p align="center">
   <a href="https://github.com/tashiniupendra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tashiniupendra&repo=your-repo-name&theme=radical" /></a>
 </p>
-
  
 
 
