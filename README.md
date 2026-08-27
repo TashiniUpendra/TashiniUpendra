@@ -43,6 +43,12 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tashiniupendra/tashiniupendra/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tashiniupendra/tashiniupendra/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tashiniupendra/tashiniupendra/output/github-snake.svg" />
+</picture>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tashiniupendra&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tashiniupendra&theme=radical" alt="streak" />
