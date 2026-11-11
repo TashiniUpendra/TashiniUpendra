@@ -9,13 +9,17 @@
 
 ---
 
+
 ### 🌱 About Me
 
-* 🌱 I’m currently learning **Web Designing 💻**
-* 👩‍🎓 I'm an Undergraduate at **NIBM**
-* 💬 Ask me about **Java, C#, HTML, CSS**
-* 📫 How to reach me **[tashiniupendra@gmail.com](mailto:tashiniupendra@gmail.com)**
-* ⚡ Fun fact: **Call me Tashini**
+- 👩‍💻 I'm a passionate **Software Engineering Undergraduate at NIBM**
+- 🚀 Interested in **Software Development, Mobile App Development & Web Technologies**
+- 💻 Skilled in **Java, Kotlin, C#, HTML, CSS, SQL & Firebase**
+- 🌱 Currently exploring **AI, Python & Modern Software Technologies**
+- 🛠️ I enjoy building **real-world applications and creative tech solutions**
+- 🤝 Open to **Internship Opportunities, Collaborations & Learning**
+- 📫 Reach me at **[tashiniupendra@gmail.com](mailto:tashiniupendra@gmail.com)**
+- ⚡ Fun fact: **I love turning ideas into working applications!**
 
 ---
 
