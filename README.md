@@ -82,19 +82,20 @@
 </p>
 
 
+
 ### 🌸 MumCare – Maternal & Baby Care App
 
-**MumCare** is a team-developed Android application designed to support maternal and baby care through digital health management features.
+MumCare is an Android mobile application developed as a team project to support maternal and baby care.
 
 **Technologies:** Kotlin, Firebase, Android Studio
 
-**My Role:** Android Developer – Team Project
+**My Role:** Android Developer (Team Project)
 
 **My Contributions:**
-- Developed the notification management system.
-- Implemented reminder creation and scheduling.
-- Designed notification UI components.
-- Developed admin dashboard functionality.
-- Implemented user management features.
+- Notification management system
+- Reminder creation and scheduling
+- Admin dashboard development
+- User management
+- Notification UI design
 
-**Repository:** [[MumCare on GitHub](https://github.com/pabasaracpathirana003-create/MumCare](https://github.com/pabasaracpathirana003-create/MumCare))
+🔗 **[View MumCare Project](https://github.com/pabasaracpathirana003-create/MumCare)**
